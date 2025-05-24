@@ -25,8 +25,6 @@
 
 I'm passionate about **network security**, **automation**, and building solutions that make complex systems simple. Currently focused on advancing cybersecurity practices through code and exploring the intersection of AI and network security.
 
-> *"Life is simple math with complex methods"*
-
 <br />
 
 ## 🎯 Current Focus
