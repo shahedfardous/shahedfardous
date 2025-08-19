@@ -242,16 +242,14 @@ I'm passionate about **network security**, **automation**, and building solution
 <br />
 
 ## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedfardous&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<div align="center" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahedfardous&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 470px;" alt="GitHub Stats"/>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedfardous&theme=vue-dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedfardous&theme=vue-dark&hide_border=true" style="width: 470px;" alt="GitHub Stats"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedfardous&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
-<br />
 
 ## Development Journey
 
