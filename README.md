@@ -244,19 +244,11 @@ I'm passionate about **network security**, **automation**, and building solution
 ## GitHub Analytics
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shahedfardous&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedfardous&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=0969da" alt="GitHub Stats" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedfardous&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedfardous&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=656d76" alt="Top Languages" />
-</picture>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shahedfardous&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedfardous&theme=vue-dark&hide_border=true" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedfardous&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
 <br />
